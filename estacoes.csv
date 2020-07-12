@@ -1,0 +1,593 @@
+codigo,UF,alt,cidade,cod_OMM,inicio_operacao,lat,lon,nome,timezone
+A001,DF,1161,Brasília,86715,07/05/2000,-15.789343,-47.925756,Brasília,America/Sao_Paulo
+A002,GO,727,Goiânia,86734,30/05/2001,-16.642841,-49.220222,Goiânia,America/Sao_Paulo
+A003,GO,751,Morrinhos,86755,30/05/2001,-17.745066,-49.101698,Morrinhos,America/Sao_Paulo
+A004,GO,664,Niquelândia,86690,01/06/2001,-14.469400,-48.485800,Niquelândia,America/Sao_Paulo
+A005,GO,365,Porangatu,,04/06/2001,-13.309528,-49.117478,Porangatu,America/Sao_Paulo
+A008,DF,1226,Brasília,,13/06/2003,-15.812050,-48.002904,Faculdade da Terra,America/Sao_Paulo
+A009,TO,292,Palmas,86607,17/12/2004,-10.190744,-48.301811,Palmas,America/Araguaina
+A010,TO,285,Paranã,86650,04/03/2005,-12.614893,-47.871917,Paranã,America/Araguaina
+A011,GO,492,São Simão,86773,14/07/2006,-18.969142,-50.633449,São Simão,America/Sao_Paulo
+A012,GO,1001,Luziânia,86736,21/10/2006,-16.260542,-47.966962,Luziânia,America/Sao_Paulo
+A013,GO,327,Aragarças,86709,13/07/2007,-15.902658,-52.245172,Aragarças,America/Sao_Paulo
+A014,GO,513,Goiás,86712,16/07/2007,-15.939729,-50.141433,Goiás,America/Sao_Paulo
+A015,GO,551,Itapaci,86689,03/02/2007,-14.979792,-49.539977,Itapaci,America/Sao_Paulo
+A016,GO,670,Jataí,86752,24/05/2007,-17.923622,-51.717467,Jataí,America/Sao_Paulo
+A017,GO,830,Posse,86692,18/04/2007,-14.089210,-46.366497,Posse,America/Sao_Paulo
+A018,TO,251,Peixe,86649,01/12/2006,-12.015377,-48.544517,Peixe,America/Araguaina
+A019,TO,279,Gurupi,86630,20/12/2006,-11.745782,-49.049703,Gurupi,America/Araguaina
+A020,TO,190,Pedro Afonso,81941,23/01/2007,-8.968677,-48.177259,Pedro Afonso,America/Araguaina
+A021,TO,231,Araguaina,81900,26/01/2007,-7.103954,-48.201231,Araguaina,America/Araguaina
+A022,GO,667,Goianésia,86713,02/06/2007,-15.220199,-48.990107,Goianésia,America/Sao_Paulo
+A023,GO,740,Caiapônia,86730,21/05/2007,-16.966841,-51.817567,Caiapônia,America/Sao_Paulo
+A024,GO,1265,Alto Paraíso de Goiás,86691,02/06/2007,-14.133074,-47.523258,Alto Paraíso de Goiás,America/Sao_Paulo
+A025,GO,780,Rio Verde,86753,17/05/2007,-17.785303,-50.964869,Rio Verde,America/Sao_Paulo
+A026,GO,862,Mineiros,86751,23/10/2007,-17.454886,-52.601222,Mineiros,America/Sao_Paulo
+A027,GO,679,Paraúna,86732,30/03/2008,-16.962536,-50.425450,Paraúna,America/Sao_Paulo
+A028,GO,610,Iporá,86731,24/06/2013,-16.423059,-51.148801,Iporá,America/Sao_Paulo
+A029,GO,610,Edéia,,26/08/2017,-17.337001,-49.914778,Edéia,America/Sao_Paulo
+A031,GO,210,São Miguel do Araguaia,86646,30/06/2017,-12.820489,-50.335969,São Miguel do Araguaia,America/Sao_Paulo
+A032,GO,551,Monte Alegre de Goiás,86670,06/06/2007,-13.253521,-46.890326,Monte Alegre de Goiás,America/Sao_Paulo
+A033,GO,757,Pires do Rio,86756,12/10/2007,-17.304153,-48.284131,Pires do Rio,America/Sao_Paulo
+A034,GO,901,Catalão,86777,31/01/2008,-18.154779,-47.927614,Catalão,America/Sao_Paulo
+A035,GO,491,Itumbiara,86774,02/11/2007,-18.409761,-49.192061,Itumbiara,America/Sao_Paulo
+A036,GO,1211,Cristalina,86737,13/12/2007,-16.784896,-47.612966,Cristalina,America/Sao_Paulo
+A037,GO,952,Silvânia,86735,08/10/2010,-16.679786,-48.618171,Silvânia,America/Sao_Paulo
+A038,TO,728,Dianópolis,86632,30/08/2008,-11.594448,-46.847209,Dianópolis,America/Araguaina
+A039,TO,215,Formoso do Araguaia,86629,27/04/2008,-11.887377,-49.608215,Formoso do Araguaia,America/Araguaina
+A040,TO,791,Mateiros,86608,25/10/2012,-10.434441,-45.921941,Mateiros,America/Araguaina
+A041,TO,187,Marianópolis do Tocantins,81983,24/11/2012,-9.576389,-49.723330,Marianópolis do Tocantins,America/Araguaina
+A042,DF,1143,Brazlândia,,19/07/2017,-15.652894,-48.201369,Brazlândia,America/Sao_Paulo
+A043,TO,427,Campos Lindos,81902,29/10/2012,-8.154665,-46.639323,Campos Lindos,America/Araguaina
+A044,TO,131,Araguatins,81821,12/03/2009,-5.643725,-48.111839,Araguatins,America/Araguaina
+A045,DF,103,Águas Emendadas,86716,02/10/2008,-15.596491,-47.625801,Águas Emendadas,America/Sao_Paulo
+A046,DF,990,Gama,86717,01/10/2014,-15.935139,-48.137377,Gama (Ponte Alta),America/Sao_Paulo
+A047,DF,1043,Paranoá,86733,07/02/2017,-16.012222,-47.557417,Paranoá (COOPA),America/Sao_Paulo
+A048,TO,171,Santa Fé do Araguaia,81898,30/07/2016,-7.124191,-48.781267,Santa Fé do Araguaia,America/Araguaina
+A049,TO,200,Colinas do Tocantins,81939,12/11/2016,-8.092708,-48.478605,Colinas do Tocantins,America/Araguaina
+A050,TO,291,Rio Sono,81981,03/08/2016,-9.793363,-47.132732,Rio Sono,America/Araguaina
+A051,TO,161,Pium,86603,06/04/2016,-10.476944,-49.629475,Pium,America/Araguaina
+A052,TO,306,Santa Rosa do Tocantins,86631,14/08/2015,-11.429018,-48.184889,Santa Rosa do Tocantins,America/Araguaina
+A053,TO,503,Almas,86627,01/04/2016,-11.284098,-47.212125,Almas,America/Araguaina
+A054,TO,231,Araguaçu,86648,19/08/2015,-12.592213,-49.528738,Araguaçu,America/Araguaina
+A055,TO,178,Lagoa da Confusão,,15/11/2016,-10.828286,-49.847882,Lagoa da Confusão,America/Araguaina
+A056,GO,932,Cristalina,,25/01/2018,-16.399314,-47.625842,Cristalina-Fazenda Santa Monica,America/Sao_Paulo
+A101,AM,49,Manaus,81730,09/05/2000,-3.103682,-60.015461,Manaus,America/Manaus
+A102,AC,185,Parque Estadual Chandless,81963,05/08/2008,-9.358353,-69.926257,Parque Estadual Chandless,America/Rio_Branco
+A104,AC,224,Rio Branco,81965,11/07/2008,-9.957844,-68.165169,Rio Branco,America/Rio_Branco
+A108,AC,220,Cruzeiro do Sul,81881,14/05/2015,-7.610773,-72.681333,Cruzeiro do Sul,America/Rio_Branco
+A109,AM,122,Eirunepé,81843,31/08/2012,-6.650301,-69.868610,Eirunepé,America/Eirunepe
+A110,AM,112,Boca do Acre,81927,15/07/2008,-8.776804,-67.332557,Boca do Acre,America/Manaus
+A111,AM,62,Lábrea,,27/07/2008,-7.260681,-64.788501,Lábrea,America/Manaus
+A112,AM,54,Humaitá,81890,25/04/2008,-7.552520,-63.071343,Humaitá,America/Manaus
+A113,AM,157,Apui,,19/07/2008,-7.205475,-59.888561,Apui,America/Manaus
+A117,AM,34,Coari,81770,12/04/2008,-4.097483,-63.145322,Coari,America/Manaus
+A119,AM,37,Manacapuru,81729,10/04/2004,-3.294638,-60.628402,Manacapuru,America/Manaus
+A120,AM,20,Autazes,81732,17/04/2008,-3.583333,-59.129440,Autazes,America/Manaus
+A121,AM,42,Itacoatiara,81733,17/04/2008,-3.133333,-58.482780,Itacoatiara,America/Manaus
+A122,AM,25,Maués,81734,22/04/2008,-3.399010,-57.673772,Maués,America/Manaus
+A123,AM,19,Parintins,81703,10/04/2008,-2.639152,-56.756177,Parintins,America/Manaus
+A124,AM,18,Urucará,81702,17/04/2008,-2.534749,-57.758099,Urucará,America/Manaus
+A125,AM,113,Rio Urubu,81700,26/06/2008,-2.633654,-59.600582,Rio Urubu,America/Manaus
+A126,AM,61,Presidente Figueiredo,81699,19/04/2008,-2.056558,-60.025756,Presidente Figueiredo,America/Manaus
+A128,AM,30,Barcelos,81648,19/04/2008,-0.987292,-62.924251,Barcelos,America/Manaus
+A133,AM,41,Manicore,81810,12/12/2011,-5.788533,-61.288276,Manicore,America/Manaus
+A134,AM,80,São Gabriel da Cachoeira,81643,31/08/2011,-0.125207,-67.061246,São Gabriel da Cachoeira,America/Manaus
+A135,RR,82,Boa Vista,81615,26/08/2010,2.816897,-60.690821,Boa Vista,America/Boa_Vista
+A136,AC,205,Porto Walter,81921,29/10/2009,-8.267197,-72.747838,Porto Walter,America/Rio_Branco
+A137,AC,221,Marechal Thaumaturgo,81922,27/10/2009,-8.950008,-72.786778,Marechal Thaumaturgo,America/Rio_Branco
+A138,AC,157,Feijó,81924,24/09/2009,-8.142654,-70.343594,Feijó,America/Rio_Branco
+A140,AC,225,Epitaciolândia,86620,25/09/2009,-11.023752,-68.735180,Epitaciolândia,America/Rio_Branco
+A144,AM,45,Novo Aripuanã,,18/07/2019,-5.141139,-60.380531,Novo Aripuanã,America/Manaus
+A201,PA,21,Belém,81680,20/01/2003,-1.411228,-48.439512,Belém,America/Belem
+A202,PA,47,Castanhal,81682,24/01/2003,-1.300875,-47.947967,Castanhal,America/Belem
+A203,MA,55,São Luís,81715,29/01/2003,-2.526771,-44.213577,São Luís,America/Fortaleza
+A204,MA,271,Balsas,81903,26/10/2007,-7.455609,-46.027546,Balsas,America/Fortaleza
+A205,MA,183,Carolina,81901,04/12/2007,-7.337269,-47.459839,Carolina,America/Fortaleza
+A206,MA,104,Chapadinha,81749,17/09/2008,-3.742674,-43.352084,Chapadinha,America/Fortaleza
+A207,MA,232,Grajaú,81823,10/09/2008,-5.816085,-46.162200,Grajaú,America/Fortaleza
+A208,PA,190,Floresta do Araguaia,,09/04/2008,-7.560720,-49.710940,Floresta do Araguaia,America/Belem
+A209,PA,252,Medicilandia,81739,17/02/2008,-3.510943,-52.963450,Medicilandia,America/Santarem
+A210,PA,89,Pacajá,81742,27/02/2008,-3.843701,-50.638098,Pacajá,America/Belem
+A211,PA,100,Placas,81737,14/02/2008,-3.864040,-54.216416,Placas,America/Santarem
+A212,PA,113,Paragominas,81745,18/10/2007,-2.990361,-47.407833,Paragominas,America/Belem
+A213,PA,43,Tomé Açu,81711,14/10/2007,-2.592606,-48.360585,Tomé Açu,America/Belem
+A214,PA,203,Rondon do Pará,81786,17/04/2008,-4.827501,-48.173556,Rondon do Pará,America/Belem
+A215,PA,23,Salinópolis,81660,14/06/2008,-0.618884,-47.356596,Salinópolis,America/Belem
+A216,PA,211,São Félix do Xingu,81858,16/11/2016,-6.639622,-51.956966,São Félix do Xingu,America/Belem
+A217,MA,10,Farol Santana,81716,28/11/2008,-2.270811,-43.624043,Farol Santana,America/Fortaleza
+A218,MA,5,Farol Preguiças,81717,22/11/2008,-2.592341,-42.707553,Farol Preguiças,America/Fortaleza
+A219,MA,36,Turiaçu,81687,10/06/2008,-1.661224,-45.372571,Turiaçu,America/Fortaleza
+A220,MA,22,Bacabal,,09/07/2008,-4.243056,-44.794993,Bacabal,America/Fortaleza
+A221,MA,154,Barra do Corda,81825,06/03/2008,-5.506782,-45.237053,Barra do Corda,America/Fortaleza
+A222,MA,175,Colinas,81866,03/06/2008,-6.033167,-44.233402,Colinas,America/Fortaleza
+A223,MA,284,Alto Parnaíba,81985,03/06/2008,-9.108199,-45.932016,Alto Parnaíba,America/Fortaleza
+A224,MA,183,Estreito,81863,27/02/2008,-6.653272,-47.418241,Estreito,America/Fortaleza
+A225,MA,118,Imperatriz,81822,01/03/2008,-5.555723,-47.459794,Imperatriz,America/Fortaleza
+A226,PA,41,Bragança,81685,11/03/2008,-1.047258,-46.785790,Bragança,America/Belem
+A227,PA,13,Soure,81658,27/04/2008,-0.727827,-48.515795,Soure,America/Belem
+A228,PA,11,Breves,81673,21/10/2017,-1.680251,-50.478139,Breves,America/Belem
+A229,PA,138,Tucuruí,81743,01/03/2008,-3.822760,-49.674956,Tucuruí,America/Belem
+A230,PA,707,Serra dos Carajás,81860,03/09/2008,-6.077427,-50.142265,Serra dos Carajás,America/Belem
+A231,PA,24,Itaituba,81778,17/02/2008,-4.276978,-55.993087,Itaituba,America/Santarem
+A232,PA,90,Óbidos,81675,05/07/2012,-1.880789,-55.519856,Óbidos,America/Santarem
+A233,PA,177,Santana do Araguaia,81982,30/05/2008,-9.338611,-50.350280,Santana do Araguaia,America/Belem
+A234,PA,321,Tucumã,81859,18/07/2008,-6.743208,-51.141899,Tucumã,America/Belem
+A235,PA,101,Novo Repartimento,81784,23/07/2008,-4.243989,-49.939308,Novo Repartimento,America/Belem
+A236,PA,10,Cametá,81710,20/06/2008,-2.239653,-49.499827,Cametá,America/Belem
+A237,MA,85,Caxias,81792,13/07/2008,-4.821352,-43.343659,Caxias,America/Fortaleza
+A238,MA,175,Buriticupu,81788,11/09/2008,-4.320597,-46.449503,Buriticupu,America/Fortaleza
+A239,PA,101,Monte Alegre,81706,06/07/2012,-2.000054,-54.076479,Monte Alegre,America/Santarem
+A240,PA,117,Marabá,81820,25/06/2009,-5.366447,-49.051166,Marabá,America/Belem
+A241,PA,176,Conceição do Araguaia,81940,04/09/2008,-8.303610,-49.282770,Conceição do Araguaia,America/Belem
+A242,AP,15,Oiapoque,81609,11/09/2008,3.813583,-51.862500,Oiapoque,America/Belem
+A243,AP,21,Tartarugalzinho,81628,07/09/2008,1.496670,-50.916700,Tartarugalzinho,America/Belem
+A244,AP,84,Porto Grande,81637,17/09/2008,0.694361,-51.404095,Porto Grande,America/Belem
+A245,PA,19,Porto de Moz,,19/06/2019,-1.822167,-52.111751,Porto de Moz,America/Belem
+A246,PA,260,Mina Palito,81855,28/09/2010,-6.320067,-55.787783,Mina Palito,America/Santarem
+A247,PA,245,Xinguara,81896,11/09/2016,-7.110518,-49.926072,Xinguara,America/Belem
+A248,PA,79,Capitão Poço,81684,18/04/2011,-1.734766,-47.057500,Capitão Poço,America/Belem
+A249,AP,17,Macapá,81638,12/12/2013,0.035020,-51.088763,Macapá,America/Belem
+A250,PA,137,Santarém,81707,02/09/2015,-2.502572,-54.720279,Santarém,America/Santarem
+A251,AP,21,Itaubal,81636,24/08/2017,0.567833,-50.823528,Itaubal,America/Belem
+A252,PA,251,Dom Eliseu,81782,08/03/2018,-4.280556,-47.563972,Dom Eliseu,America/Belem
+A253,PA,191,Altamira,,25/10/2018,-3.270251,-52.394806,Altamira,America/Santarem
+A254,PA,199,Redenção,,11/07/2019,-8.043250,-50.006917,Redenção,America/Belem
+A301,PE,11,Recife,81958,22/12/2004,-8.059280,-34.959239,Recife,America/Recife
+A302,PE,2,São Pedro e São Paulo,81639,02/11/2003,0.916877,-29.345904,São Pedro e São Paulo,America/Noronha
+A303,AL,84,Maceió,81998,25/02/2003,-9.551168,-35.770195,Maceió,America/Maceio
+A304,RN,47,Natal,81839,24/02/2003,-5.837187,-35.207921,Natal,America/Fortaleza
+A305,CE,30,Fortaleza,81758,18/02/2003,-3.815701,-38.537792,Fortaleza,America/Fortaleza
+A306,CE,92,Sobral,81754,12/02/2003,-3.748177,-40.345720,Sobral,America/Fortaleza
+A307,PE,373,Petrolina,81991,21/02/2003,-9.388323,-40.523262,Petrolina,America/Recife
+A308,PI,52,Parnaíba,81752,06/02/2003,-3.086656,-41.783139,Parnaíba,America/Fortaleza
+A309,PE,684,Arco Verde,81953,20/11/2004,-8.433544,-37.055477,Arco Verde,America/Recife
+A310,PB,573,Areia,81877,16/11/2004,-6.975451,-35.718128,Areia,America/Fortaleza
+A311,PI,126,Floriano,81868,18/11/2004,-6.761438,-43.003396,Floriano,America/Fortaleza
+A312,PI,75,Teresina,81827,24/11/2004,-5.034769,-42.801341,Teresina,America/Fortaleza
+A313,PB,546,Campina Grande,81916,22/12/2006,-7.225574,-35.904831,Campina Grande,America/Fortaleza
+A314,CE,866,Guaramiranga,,26/05/2007,-4.261351,-38.931068,Guaramiranga,America/Fortaleza
+A315,CE,409,Barbalha,81911,31/05/2007,-7.300925,-39.271107,Barbalha,America/Fortaleza
+A316,RN,171,Caicó,81875,07/01/2007,-6.467474,-37.084931,Caicó,America/Fortaleza
+A317,RN,17,Macau,81836,06/01/2007,-5.151035,-36.573142,Macau,America/Fortaleza
+A318,RN,29,Mossoró,81834,22/05/2007,-4.904087,-37.366943,Mossoró,America/Fortaleza
+A319,CE,222,Iguatu,81873,30/05/2007,-6.396375,-39.268954,Iguatu,America/Fortaleza
+A320,PB,34,João Pessoa,81918,21/07/2007,-7.165409,-34.815627,João Pessoa,America/Fortaleza
+A321,PB,264,Patos,81913,21/07/2007,-7.079836,-37.272817,Patos,America/Fortaleza
+A322,PE,828,Garanhuns,81955,08/07/2007,-8.910950,-36.493381,Garanhuns,America/Recife
+A323,AL,21,Pão de Açucar,81994,14/07/2007,-9.749220,-37.430765,Pão de Açucar,America/Maceio
+A324,CE,411,Tauá,81872,12/07/2007,-6.017474,-40.281321,Tauá,America/Fortaleza
+A325,CE,221,Quixeramobim,81831,09/07/2007,-5.174568,-39.289393,Quixeramobim,America/Fortaleza
+A326,PI,296,Bom Jesus do Piauí,81987,17/07/2007,-9.083251,-44.326470,Bom Jesus do Piauí,America/Fortaleza
+A327,AL,278,Palmeira dos Índios,81995,11/07/2007,-9.420334,-36.620371,Palmeira dos Índios,America/Maceio
+A328,PE,421,Surubim,81917,09/03/2008,-7.839628,-35.801056,Surubim,America/Recife
+A329,PE,343,Cabrobó,81951,04/09/2007,-8.504000,-39.315280,Cabrobó,America/Recife
+A330,PI,376,Paulistana,81950,31/08/2007,-8.132288,-41.142945,Paulistana,America/Fortaleza
+A331,PI,237,São João do Piauí,81848,26/08/2007,-8.364977,-42.250369,São João do Piauí,America/Fortaleza
+A332,CE,45,Morada Nova,81832,24/08/2007,-5.136689,-38.356590,Morada Nova,America/Fortaleza
+A333,PB,237,São Gonçalo,81774,06/11/2007,-6.835777,-38.311583,São Gonçalo,America/Fortaleza
+A334,PB,606,Monteiro,81914,22/08/2007,-7.894465,-37.124704,Monteiro,America/Fortaleza
+A335,PI,158,Piripiri,,31/08/2007,-4.276047,-41.794568,Piripiri,America/Fortaleza
+A336,PI,261,Alvorada do Gurguéia,81846,17/11/2007,-8.441598,-43.865443,Alvorada do Gurguéia,America/Fortaleza
+A337,PI,515,Caracol,81988,10/11/2007,-9.285880,-43.324438,Caracol,America/Fortaleza
+A338,PI,88,Esperantina,81751,03/12/2007,-3.899360,-42.259500,Esperantina,America/Fortaleza
+A339,CE,17,Jaguaruana,81798,10/11/2007,-4.853511,-37.777189,Jaguaruana,America/Fortaleza
+A340,RN,131,Apodi,81835,14/11/2007,-5.626559,-37.814991,Apodi,America/Fortaleza
+A341,PE,852,Caruaru,81956,21/11/2007,-8.365147,-36.028461,Caruaru,America/Recife
+A342,CE,298,Crateús,81830,11/12/2008,-5.186636,-40.672128,Crateús,America/Fortaleza
+A343,PI,233,Picos,81908,12/12/2008,-7.071016,-41.404042,Picos,America/Fortaleza
+A344,RN,10,Calcanhar,81838,08/05/2008,-5.159925,-35.487616,Calcanhar,America/Fortaleza
+A345,PI,383,São Raimundo Nonato,81989,27/02/2008,-9.033211,-42.701112,São Raimundo Nonato,America/Fortaleza
+A346,PI,399,Uruçui,81905,06/03/2008,-7.441420,-44.345055,Uruçui,America/Fortaleza
+A347,CE,578,Campos Sales,81909,07/03/2008,-7.077730,-40.362678,Campos Sales,America/Fortaleza
+A348,PB,392,Cabaceiras,81915,28/02/2008,-7.483206,-36.286469,Cabaceiras,America/Fortaleza
+A349,PE,434,Ibimirim,81954,14/10/2008,-8.509552,-37.711591,Ibimirim,America/Recife
+A350,PE,499,Serra Talhada,81912,09/07/2008,-7.954277,-38.295082,Serra Talhada,America/Recife
+A351,PE,327,Floresta,,15/09/2008,-8.598785,-38.584062,Floresta,America/Recife
+A352,PB,136,Camaratuba,81878,04/05/2008,-6.561813,-35.135316,Camaratuba,America/Fortaleza
+A353,AL,237,Arapiraca,81996,27/04/2008,-9.804551,-36.619198,Arapiraca,America/Maceio
+A354,PI,154,Oeiras,81869,22/07/2008,-6.974135,-42.146831,Oeiras,America/Fortaleza
+A355,AL,82,Coruripe,86619,06/09/2008,-10.128482,-36.286348,Coruripe,America/Maceio
+A356,AL,14,São Luis do Quitunde,81997,08/09/2008,-9.287481,-35.565878,São Luis do Quitunde,America/Maceio
+A357,PE,164,Palmares,81957,04/09/2008,-8.666667,-35.567921,Palmares,America/Recife
+A358,CE,149,Jaguaribe,81833,10/09/2008,-5.905589,-38.627792,Jaguaribe,America/Fortaleza
+A359,CE,104,Itapipoca,81756,05/09/2008,-3.484298,-39.588715,Itapipoca,America/Fortaleza
+A360,CE,67,Acaraú,,22/04/2009,-3.121067,-40.087288,Acaraú,America/Fortaleza
+A361,PI,269,Castelo do Piauí,81829,20/04/2009,-5.349228,-41.512274,Castelo do Piauí,America/Fortaleza
+A362,PI,296,São Pedro do Piaui,81828,20/05/2009,-5.911033,-42.718729,São Pedro do Piaui,America/Fortaleza
+A363,PI,313,Valença do Piauí,81870,18/04/2009,-6.399274,-41.739953,Valença do Piauí,America/Fortaleza
+A364,PI,425,Gilbués,81986,16/05/2009,-9.875196,-45.345805,Gilbués,America/Fortaleza
+A365,PI,312,Canto do Buriti,81847,12/06/2010,-8.117939,-42.975721,Canto do Buriti,America/Fortaleza
+A366,PE,458,Ouricuri,81910,11/08/2010,-7.885833,-40.102683,Ouricuri,America/Recife
+A367,RN,227,Santa Cruz,81876,17/08/2010,-6.227922,-36.026587,Santa Cruz,America/Fortaleza
+A368,CE,756,Tianguá,81753,14/03/2018,-3.732164,-41.011886,Tianguá,America/Fortaleza
+A369,CE,193,Quixadá,81799,20/03/2018,-4.978783,-39.057183,Quixadá,America/Fortaleza
+A370,PE,447,Salgueiro,81949,15/09/2017,-8.058056,-39.096111,Salgueiro,America/Recife
+A371,AL,187,Piranhas,81980,20/09/2017,-9.622261,-37.767113,Piranhas,America/Maceio
+A372,RN,19,Ipanguaçu,81837,08/11/2017,-5.534867,-36.872314,Ipanguaçu,America/Fortaleza
+A373,PB,292,Itaporanga,81907,03/11/2017,-7.318459,-38.140843,Itaporanga,America/Fortaleza
+A374,PI,452,Corrente,,28/03/2018,-10.429169,-45.173039,Corrente,America/Fortaleza
+A375,PI,519,Baixa Grande do Ribeiro,81947,23/03/2018,-8.333531,-45.094626,Baixa Grande do Ribeiro,America/Fortaleza
+A376,PI,125,Campo Maior,,23/11/2018,-4.864178,-42.145553,Campo Maior,America/Fortaleza
+A401,BA,48,Salvador,86678,13/05/2000,-13.005515,-38.505760,Salvador,America/Bahia
+A402,BA,474,Barreiras,86652,20/12/2001,-12.124715,-45.027049,Barreiras,America/Bahia
+A404,BA,761,Luis Eduardo Magalhaes,86651,18/04/2002,-12.152394,-45.829745,Luis Eduardo Magalhaes,America/Bahia
+A405,BA,6,Caravelas,86764,20/12/2002,-17.739413,-39.258617,Caravelas,America/Bahia
+A406,BA,220,Cruz das Almas,86657,19/01/2003,-12.675422,-39.089580,Cruz das Almas,America/Bahia
+A407,BA,757,Itiruçu,86674,09/02/2003,-13.527828,-40.119752,Itiruçu,America/Bahia
+A408,BA,250,Itaberaba,86656,29/01/2003,-12.524062,-40.299714,Itaberaba,America/Bahia
+A409,SE,4,Aracaju,86616,12/02/2003,-10.952413,-37.054330,Aracaju,America/Maceio
+A410,BA,80,Ilhéus,86699,25/01/2003,-14.658803,-39.181438,Ilhéus,America/Bahia
+A411,BA,255,Paulo Afonso,81993,15/02/2003,-9.378110,-38.226800,Paulo Afonso,America/Bahia
+A412,BA,339,Macajuba,86655,03/02/2003,-12.131694,-40.354222,Macajuba,America/Bahia
+A413,BA,230,Feira de Santana,86658,26/05/2007,-12.196200,-38.967384,Feira de Santana,America/Bahia
+A414,BA,879,Vitória da Conquista,86697,01/06/2007,-14.886428,-40.801330,Vitória da Conquista,America/Bahia
+A415,BA,450,Santa Rita de Cássia,86633,28/05/2007,-11.002768,-44.524965,Santa Rita de Cássia,America/Bahia
+A416,BA,552,Correntina,86671,09/11/2007,-13.332386,-44.617376,Correntina,America/Bahia
+A417,SE,205,Itabaianinha,86638,23/05/2007,-11.272500,-37.795000,Itabaianinha,America/Maceio
+A418,BA,448,Bom Jesus da Lapa,86672,18/05/2007,-13.251094,-43.405365,Bom Jesus da Lapa,America/Bahia
+A419,SE,367,Poço Verde,86614,03/04/2008,-10.738020,-38.108389,Poço Verde,America/Maceio
+A420,SE,290,Carira,86615,28/03/2008,-10.399719,-37.747503,Carira,America/Maceio
+A421,SE,6,Brejo Grande,86618,17/07/2008,-10.473959,-36.482051,Brejo Grande,America/Maceio
+A422,BA,21,Abrolhos,86765,21/07/2008,-17.963016,-38.703288,Abrolhos,America/Bahia
+A423,BA,397,Remanso,81990,26/03/2008,-9.625693,-42.077214,Remanso,America/Bahia
+A424,BA,768,Irecê,86635,31/03/2008,-11.328998,-41.864504,Irecê,America/Bahia
+A425,BA,438,Lençóis,86654,05/04/2008,-12.557854,-41.388808,Lençóis,America/Bahia
+A426,BA,552,Guanambi,86694,24/04/2008,-14.208123,-42.749647,Guanambi,America/Bahia
+A427,BA,86,Porto Seguro,86745,10/07/2008,-16.388977,-39.182389,Porto Seguro,America/Bahia
+A428,BA,532,Senhor do Bonfim,86611,27/03/2008,-10.443072,-40.148244,Senhor do Bonfim,America/Bahia
+A429,BA,408,Barra,86634,12/05/2008,-11.084858,-43.138998,Barra,America/Bahia
+A430,BA,1284,Piatã,86673,03/05/2008,-13.155681,-41.774125,Piatã,America/Bahia
+A431,BA,32,Conde,86639,07/04/2008,-12.035833,-37.683889,Conde,America/Bahia
+A432,BA,506,Buritirama,86609,15/05/2008,-10.722925,-43.651203,Buritirama,America/Bahia
+A433,BA,473,Brumado,86696,28/04/2008,-14.181886,-41.672281,Brumado,America/Bahia
+A434,BA,398,Amargosa,86675,11/07/2008,-13.009468,-39.616881,Amargosa,America/Bahia
+A435,BA,451,Uauá,81992,20/05/2008,-9.833617,-39.495631,Uauá,America/Bahia
+A436,BA,310,Queimadas,86612,23/05/2008,-10.984645,-39.617009,Queimadas,America/Bahia
+A437,BA,74,Una,86724,25/06/2008,-15.280215,-39.091270,Una,America/Bahia
+A438,BA,6,Maraú,86677,22/06/2008,-13.906940,-38.972220,Maraú,America/Bahia
+A439,BA,425,Ibotirama,86653,28/04/2008,-12.193060,-43.213420,Ibotirama,America/Bahia
+A440,BA,441,Jacobina,86636,01/05/2008,-11.205136,-40.464979,Jacobina,America/Bahia
+A441,BA,338,Serrinha,86637,09/05/2008,-11.664586,-39.022946,Serrinha,America/Bahia
+A442,BA,432,Euclides da Cunha,86613,31/03/2008,-10.537233,-38.996605,Euclides da Cunha,America/Bahia
+A443,BA,646,Delfino,86610,15/07/2008,-10.454920,-41.206996,Delfino,America/Bahia
+A444,BA,93,Valença,86676,29/06/2009,-13.343610,-39.126670,Valença,America/Bahia
+A445,BA,132,Ipiaú,86698,30/06/2009,-14.171304,-39.692502,Ipiaú,America/Bahia
+A446,BA,271,Itapetinga,86723,25/06/2009,-15.244620,-40.229550,Itapetinga,America/Bahia
+A447,BA,90,Belmonte,86744,02/07/2009,-16.088049,-39.215389,Belmonte,America/Bahia
+A448,BA,370,Curaçá,81984,20/08/2015,-9.001300,-39.912400,Curaçá,America/Bahia
+A449,BA,385,Pilão Arcado,86604,01/04/2016,-10.018333,-42.500278,Pilão Arcado,America/Bahia
+A450,BA,261,Jeremoabo,86605,13/08/2015,-10.080700,-38.345900,Jeremoabo,America/Bahia
+A451,SE,0,Itabaiana,,24/04/2017,-10.671751,-37.471501,Itabaiana,America/Maceio
+A452,BA,488,Formosa do Rio Preto,86623,02/06/2016,-11.052164,-45.200769,Formosa do Rio Preto,America/Bahia
+A453,SE,271,Nossa Senhora da Glória,,24/03/2017,-10.207778,-37.431889,Nossa Senhora da Glória,America/Maceio
+A454,BA,574,Macaúbas,86679,07/04/2016,-13.038900,-42.617200,Macaúbas,America/Bahia
+A455,BA,110,Itamaraju,86760,28/05/2016,-17.436667,-39.550861,Itamaraju,America/Bahia
+A456,BA,31,Salvador,,09/03/2018,-12.808222,-38.495944,Salvador-Est. Rádio Marinha,America/Bahia
+A458,BA,182,Ribeira do Amparo,,20/09/2018,-11.058722,-38.444028,Ribeira do Amparo,America/Bahia
+A502,MG,1169,Barbacena,86850,05/12/2002,-21.228373,-43.767703,Barbacena,America/Sao_Paulo
+A505,MG,1018,Araxá,86796,19/12/2002,-19.605696,-46.949617,Araxá,America/Sao_Paulo
+A506,MG,646,Montes Claros,86740,16/12/2002,-16.686316,-43.843763,Montes Claros,America/Sao_Paulo
+A507,MG,875,Uberlândia,86776,14/12/2002,-18.917072,-48.255657,Uberlândia,America/Sao_Paulo
+A508,MG,189,Almenara,86743,09/12/2002,-16.166773,-40.687756,Almenara,America/Sao_Paulo
+A509,MG,1545,Monte Verde,86870,19/12/2004,-22.861604,-46.043365,Monte Verde,America/Sao_Paulo
+A510,MG,698,Viçosa,86824,15/09/2005,-20.762607,-42.864013,Viçosa,America/Sao_Paulo
+A511,MG,493,Timóteo,86801,22/02/2006,-19.573824,-42.622413,Timóteo,America/Sao_Paulo
+A512,MG,540,Ituiutaba,86775,11/05/2006,-18.952907,-49.525072,Ituiutaba,America/Sao_Paulo
+A513,MG,1048,Ouro Branco,86823,28/07/2006,-20.556592,-43.756220,Ouro Branco,America/Sao_Paulo
+A514,MG,930,São João del Rei,86849,09/06/2006,-21.106502,-44.250928,São João del Rei,America/Sao_Paulo
+A515,MG,950,Varginha,86848,13/07/2006,-21.566513,-45.404300,Varginha,America/Sao_Paulo
+A516,MG,782,Passos,86819,16/07/2006,-20.745237,-46.633916,Passos,America/Sao_Paulo
+A517,MG,283,Muriaé,86852,28/08/2006,-21.104867,-42.375904,Muriaé,America/Sao_Paulo
+A518,MG,937,Juiz de Fora,86851,26/05/2007,-21.769965,-43.364329,Juiz de Fora,America/Sao_Paulo
+A519,MG,559,Campina Verde,86793,14/07/2006,-19.539210,-49.518133,Campina Verde,America/Sao_Paulo
+A520,MG,573,Conceição das Alagoas,86794,16/07/2006,-19.985860,-48.151574,Conceição das Alagoas,America/Sao_Paulo
+A521,MG,854,Belo Horizonte,86800,10/10/2006,-19.883945,-43.969397,Belo Horizonte - Pampulha,America/Sao_Paulo
+A522,MG,212,Serra dos Aimorés,86763,21/08/2006,-17.798799,-40.249933,Serra dos Aimorés,America/Sao_Paulo
+A523,MG,978,Patrocíonio,86778,22/08/2006,-18.996684,-46.985935,Patrocíonio,America/Sao_Paulo
+A524,MG,878,Formiga,86820,17/08/2006,-20.454930,-45.453825,Formiga,America/Sao_Paulo
+A525,MG,913,Sacramento,86795,18/08/2006,-19.875271,-47.434102,Sacramento,America/Sao_Paulo
+A526,MG,520,Montalvânia,86693,26/06/2007,-14.408228,-44.404123,Montalvânia,America/Sao_Paulo
+A527,MG,467,Teófilo Otoni,86762,25/08/2006,-17.892840,-41.515423,Teófilo Otoni,America/Sao_Paulo
+A528,MG,931,Três Marias,86779,25/08/2006,-18.200855,-45.459836,Três Marias,America/Sao_Paulo
+A529,MG,1017,Passa Quatro,86873,30/05/2007,-22.395799,-44.961909,Passa Quatro,America/Sao_Paulo
+A530,MG,1077,Caldas,86846,28/11/2006,-21.918066,-46.382996,Caldas,America/Sao_Paulo
+A531,MG,1281,Maria da Fé,86871,01/12/2006,-22.314567,-45.373049,Maria da Fé,America/Sao_Paulo
+A532,MG,198,Governador Valadares,86783,29/05/2007,-18.830354,-41.977007,Governador Valadares,America/Sao_Paulo
+A533,MG,853,Guanhães,86782,02/06/2007,-18.786842,-42.942921,Guanhães,America/Sao_Paulo
+A534,MG,288,Aimorés,86803,05/08/2007,-19.532768,-41.090801,Aimorés,America/Sao_Paulo
+A535,MG,754,Florestal,86798,27/06/2008,-19.885398,-44.416883,Florestal,America/Sao_Paulo
+A536,MG,721,Dores do Indaiá,86797,01/06/2007,-19.481935,-45.593932,Dores do Indaiá,America/Sao_Paulo
+A537,MG,1359,Diamantina,86781,05/06/2007,-18.231052,-43.648269,Diamantina,America/Sao_Paulo
+A538,MG,669,Curvelo,86780,19/12/2006,-18.747711,-44.453785,Curvelo,America/Sao_Paulo
+A539,MG,454,Mocambinho,86720,11/11/2007,-15.085958,-44.016036,Mocambinho,America/Sao_Paulo
+A540,MG,255,Mantena,86784,01/08/2007,-18.780620,-40.986505,Mantena,America/Sao_Paulo
+A541,MG,932,Capelinha,86761,02/09/2007,-17.705504,-42.389256,Capelinha,America/Sao_Paulo
+A542,MG,641,Unaí,86738,15/06/2007,-16.554101,-46.881935,Unaí,America/Sao_Paulo
+A543,MG,565,Espinosa,86695,14/11/2007,-14.912284,-42.808473,Espinosa,America/Sao_Paulo
+A544,MG,894,Buritis,86718,19/06/2007,-15.524262,-46.435536,Buritis,America/Sao_Paulo
+A545,MG,505,Pirapora,86759,04/07/2007,-17.258064,-44.835600,Pirapora,America/Sao_Paulo
+A546,MG,997,Guarda,86757,11/07/2007,-17.561349,-47.199251,Guarda-Mor,America/Sao_Paulo
+A547,MG,490,São Romão,86739,30/06/2007,-16.362747,-45.123801,São Romão,America/Sao_Paulo
+A548,MG,873,Chapada Gaúcha,86719,22/06/2007,-15.300159,-45.617431,Chapada Gaúcha,America/Sao_Paulo
+A549,MG,754,Águas Vermelhas,86722,09/09/2007,-15.751536,-41.457787,Águas Vermelhas,America/Sao_Paulo
+A550,MG,272,Itaobim,86742,05/09/2007,-16.575667,-41.485588,Itaobim,America/Sao_Paulo
+A551,MG,850,Rio Pardo de Minas,86721,17/11/2007,-15.723139,-42.435750,Rio Pardo de Minas,America/Sao_Paulo
+A552,MG,487,Salinas,86741,14/07/2007,-16.160327,-42.310266,Salinas,America/Sao_Paulo
+A553,MG,877,João Pinheiro,86758,07/07/2007,-17.784770,-46.119394,João Pinheiro,America/Sao_Paulo
+A554,MG,609,Caratinga,86802,23/05/2007,-19.735757,-42.137146,Caratinga,America/Sao_Paulo
+A555,MG,1199,Ibirité,86821,07/06/2008,-20.031457,-44.011249,Ibirité (Rola Moça),America/Sao_Paulo
+A556,MG,819,Manhuaçu,86825,25/09/2010,-20.263378,-42.182817,Manhuaçu,America/Sao_Paulo
+A557,MG,411,Coronel Pacheco,86822,17/10/2012,-21.546728,-43.261029,Coronel Pacheco,America/Sao_Paulo
+A559,MG,468,Januária,86710,04/06/2016,-15.448089,-44.366313,Januária,America/Sao_Paulo
+A560,MG,705,Pompéu,86788,20/08/2015,-19.239600,-45.008200,Pompéu,America/Sao_Paulo
+A561,MG,845,São Sebastião do Paraíso,86811,17/08/2015,-20.909892,-47.114259,São Sebastião do Paraíso,America/Sao_Paulo
+A562,MG,950,Patos de Minas,,12/05/2017,-18.520667,-46.440611,Patos de Minas,America/Sao_Paulo
+A563,MG,532,Janaúba,,19/11/2016,-15.802833,-43.297056,Janaúba,America/Sao_Paulo
+A564,MG,796,Divinópolis,,26/10/2017,-20.173278,-44.874944,Divinópolis,America/Sao_Paulo
+A565,MG,697,Bambuí,,22/11/2016,-20.031111,-46.008811,Bambuí,America/Sao_Paulo
+A566,MG,308,Araçuaí,,21/05/2017,-16.848806,-42.035361,Araçuaí,America/Sao_Paulo
+A567,MG,969,Machado,,21/07/2017,-21.680722,-45.944389,Machado,America/Sao_Paulo
+A568,MG,778,Uberaba,,18/05/2017,-19.710028,-47.961889,Uberaba,America/Sao_Paulo
+A569,MG,719,Sete Lagoas,86790,10/04/2016,-19.455288,-44.173380,Sete Lagoas,America/Sao_Paulo
+A570,MG,1025,Oliveira,,20/10/2017,-20.714917,-44.864556,Oliveira,America/Sao_Paulo
+A571,MG,705,Paracatu,,15/03/2018,-17.244361,-46.881667,Paracatu,America/Sao_Paulo
+A601,RJ,35,Seropédica,86878,07/05/2000,-22.757868,-43.684843,Seropédica - Ecologia Agrícola,America/Sao_Paulo
+A602,RJ,9,Rio de Janeiro,86914,07/10/2002,-23.050334,-43.595685,Rio de Janeiro - Marambaia,America/Sao_Paulo
+A603,RJ,24,Duque de Caxias,86877,21/10/2002,-22.589806,-43.282233,Duque de Caxias - Xerém,America/Sao_Paulo
+A604,RJ,60,Cambuci,86854,20/11/2002,-21.587729,-41.958327,Cambuci,America/Sao_Paulo
+A605,RJ,13,Niterói,,06/10/2005,-22.906300,-43.133300,Niterói (UFF),America/Sao_Paulo
+A606,RJ,3,Arraial do Cabo,86892,22/09/2006,-22.975468,-42.021450,Arraial do Cabo,America/Sao_Paulo
+A607,RJ,17,Campos dos Goytacazes,86855,22/09/2006,-21.714767,-41.344017,Campos dos Goytacazes,America/Sao_Paulo
+A608,RJ,25,Macaé,86891,22/09/2006,-22.376318,-41.812053,Macaé,America/Sao_Paulo
+A609,RJ,439,Resende,86874,29/09/2006,-22.450924,-44.444786,Resende,America/Sao_Paulo
+A610,RJ,1758,Petrópolis,86876,22/10/2006,-22.464889,-43.291505,Petrópolis - Pico do Couto,America/Sao_Paulo
+A611,RJ,367,Valença,86875,25/09/2006,-22.358094,-43.695656,Valença,America/Sao_Paulo
+A612,ES,9,Vitória,86830,31/10/2006,-20.271094,-40.306069,Vitória,America/Sao_Paulo
+A613,ES,976,Santa Teresa,86804,09/08/2007,-19.988388,-40.579572,Santa Teresa,America/Sao_Paulo
+A614,ES,38,Linhares,86805,27/10/2006,-19.356923,-40.068680,Linhares,America/Sao_Paulo
+A615,ES,14,Alfredo Chaves,86829,02/11/2006,-20.636526,-40.741818,Alfredo Chaves,America/Sao_Paulo
+A616,ES,29,São Mateus,86786,25/10/2006,-18.676198,-39.864051,São Mateus,America/Sao_Paulo
+A617,ES,129,Alegre,86828,25/10/2006,-20.750412,-41.488852,Alegre,America/Sao_Paulo
+A618,RJ,991,Teresópolis,86888,01/11/2006,-22.448922,-42.987146,Teresópolis - Parque Nacional,America/Sao_Paulo
+A619,RJ,3,Paraty,86913,06/12/2006,-23.223540,-44.726863,Paraty,America/Sao_Paulo
+A620,RJ,7,Campos,86890,13/06/2008,-22.041647,-41.051871,Campos - São Tomé,America/Sao_Paulo
+A621,RJ,30,Rio de Janeiro,86879,13/04/2007,-22.861322,-43.411410,Rio de Janeiro - Vila Militar,America/Sao_Paulo
+A622,ES,69,Presidente Kennedy,86853,18/06/2008,-21.100805,-41.039395,Presidente Kennedy,America/Sao_Paulo
+A623,ES,156,Nova Venécia,86785,23/06/2008,-18.695265,-40.390572,Nova Venécia,America/Sao_Paulo
+A624,RJ,1065,Nova Friburgo,86889,18/09/2010,-22.334839,-42.676932,Nova Friburgo-Salinas,America/Sao_Paulo
+A625,RJ,305,Três Rios,,07/06/2016,-22.098391,-43.208574,Três Rios,America/Sao_Paulo
+A626,RJ,516,Rio Claro,,03/06/2016,-22.653579,-44.040916,Rio Claro (Passa Três),America/Sao_Paulo
+A627,RJ,6,Niterói,,13/07/2018,-22.867389,-43.102056,Niterói,America/Sao_Paulo
+A628,RJ,6,Angra dos Reis,,25/08/2017,-22.975694,-44.303444,Angra dos Reis,America/Sao_Paulo
+A629,RJ,293,Carmo,,11/10/2018,-21.938744,-42.600936,Carmo,America/Sao_Paulo
+A630,RJ,517,Santa Maria Madalena,,16/11/2018,-21.950592,-42.010489,Santa Maria Madalena,America/Sao_Paulo
+A631,ES,224,Ecoporanga,,17/03/2017,-18.291519,-40.736412,Ecoporanga,America/Sao_Paulo
+A632,ES,95,Marilândia,,20/03/2017,-19.407181,-40.539825,Marilândia,America/Sao_Paulo
+A633,ES,722,Venda Nova do Imigrante,,11/02/2017,-20.385423,-41.189934,Venda Nova do Imigrante,America/Sao_Paulo
+A634,ES,25,Vila Velha,86831,15/02/2017,-20.467069,-40.404051,Vila Velha,America/Sao_Paulo
+A635,RJ,2450,Itatiaia,,01/09/2017,-22.373944,-44.703111,Itatiaia - Parque Nacional,America/Sao_Paulo
+A636,RJ,20,Rio de Janeiro,,10/08/2017,-22.939883,-43.402897,Rio de Janeiro-Jacarepaguá,America/Sao_Paulo
+A652,RJ,26,Rio de Janeiro,86887,18/05/2007,-22.988286,-43.190436,Rio de Janeiro - Forte de Copacabana,America/Sao_Paulo
+A657,ES,507,Afonso Cláudio,86827,25/09/2011,-20.104194,-41.106861,Afonso Cláudio,America/Sao_Paulo
+A659,RJ,19,Silva Jardim,86893,28/08/2015,-22.645911,-42.415775,Silva Jardim,America/Sao_Paulo
+A667,RJ,26,Saquarema,86885,02/08/2015,-22.871321,-42.609219,Saquarema - Sampaio Correia,America/Sao_Paulo
+A701,SP,786,São Paulo,86910,25/07/2006,-23.496294,-46.620088,São Paulo (Mirante de Santana),America/Sao_Paulo
+A702,MS,528,Campo Grande,86810,11/09/2001,-20.447195,-54.722615,Campo Grande,America/Campo_Grande
+A703,MS,668,Ponta Porã,86857,06/09/2001,-22.552448,-55.716317,Ponta Porã,America/Campo_Grande
+A704,MS,329,Três Lagoas,86813,03/09/2001,-20.790000,-51.712200,Três Lagoas,America/Campo_Grande
+A705,SP,636,Bauru,86865,30/08/2001,-22.358052,-49.028877,Bauru,America/Sao_Paulo
+A706,SP,1663,Campos do Jordão,86872,14/03/2002,-22.750231,-45.603836,Campos do Jordão,America/Sao_Paulo
+A707,SP,432,Presidente Prudente,86863,03/02/2003,-22.119867,-51.408637,Presidente Prudente,America/Sao_Paulo
+A708,SP,1003,Franca,86818,10/12/2002,-20.584475,-47.382549,Franca,America/Sao_Paulo
+A709,MS,377,Ivinhema,86860,10/02/2003,-22.300421,-53.822895,Ivinhema,America/Campo_Grande
+A710,MS,408,Paranaíba,86792,13/11/2006,-19.695517,-51.181769,Paranaíba,America/Campo_Grande
+A711,SP,859,São Carlos,86845,05/09/2006,-21.980353,-47.883927,São Carlos,America/Sao_Paulo
+A712,SP,3,Iguape,86923,19/07/2006,-24.671654,-47.545896,Iguape,America/Sao_Paulo
+A713,SP,609,Sorocaba,86907,21/08/2006,-23.426035,-47.585552,Sorocaba,America/Sao_Paulo
+A714,SP,743,Itapeva,86905,25/07/2006,-23.981918,-48.885818,Itapeva,America/Sao_Paulo
+A715,SP,676,São Miguel Arcanjo,86906,16/08/2006,-23.852022,-48.164817,São Miguel Arcanjo,America/Sao_Paulo
+A716,SP,443,Ourinhos,86866,30/08/2006,-22.949000,-49.894546,Ourinhos,America/Sao_Paulo
+A717,MS,102,Nhumirim,86768,03/08/2006,-18.988681,-56.622868,Nhumirim,America/Campo_Grande
+A718,SP,399,Rancharia,86864,02/09/2006,-22.372832,-50.974710,Rancharia,America/Sao_Paulo
+A719,MS,151,Aquidauana,86808,01/11/2006,-20.475420,-55.784006,Aquidauana,America/Campo_Grande
+A720,MS,251,Coxim,86770,07/11/2006,-18.512146,-54.736116,Coxim,America/Campo_Grande
+A721,MS,463,Dourados,86858,21/10/2006,-22.193920,-54.911355,Dourados,America/Campo_Grande
+A722,MS,132,Miranda,86807,02/11/2006,-20.395530,-56.431736,Miranda,America/Campo_Grande
+A723,MS,79,Porto Murtinho,86833,24/10/2006,-21.705850,-57.886546,Porto Murtinho,America/Campo_Grande
+A724,MS,112,Corumbá,86767,27/10/2006,-18.996670,-57.637500,Corumbá,America/Campo_Grande
+A725,SP,776,Avaré,86904,22/09/2006,-23.101749,-48.940997,Avaré,America/Sao_Paulo
+A726,SP,566,Piracicaba,86868,26/09/2006,-22.703132,-47.623317,Piracicaba,America/Sao_Paulo
+A727,SP,461,Lins,86840,20/09/2006,-21.666045,-49.734854,Lins,America/Sao_Paulo
+A728,SP,582,Taubaté,86911,20/12/2006,-23.041668,-45.520841,Taubaté,America/Sao_Paulo
+A729,SP,510,Votuporanga,86815,07/12/2006,-20.403221,-49.966031,Votuporanga,America/Sao_Paulo
+A730,MS,821,Chapadão do Sul,86772,19/12/2006,-18.802187,-52.602620,Chapadão do Sul,America/Campo_Grande
+A731,MS,389,Maracaju,86834,14/12/2006,-21.609036,-55.177531,Maracaju,America/Campo_Grande
+A732,MS,646,São Gabriel do Oeste,86789,16/12/2006,-19.420320,-54.553088,São Gabriel do Oeste,America/Campo_Grande
+A733,SP,460,Jales,86814,23/08/2007,-20.165025,-50.595134,Jales,America/Sao_Paulo
+A734,SP,382,Valparaiso,86838,28/08/2007,-21.319138,-50.930158,Valparaiso,America/Sao_Paulo
+A735,SP,408,José Bonifácio,86839,04/09/2007,-21.085675,-49.920388,José Bonifácio,America/Sao_Paulo
+A736,SP,525,Ariranha,86841,15/11/2007,-21.132937,-48.840426,Ariranha,America/Sao_Paulo
+A737,SP,497,Ibitinga,86843,09/11/2007,-21.855567,-48.799717,Ibitinga,America/Sao_Paulo
+A738,SP,734,Casa Branca,86844,28/06/2007,-21.780560,-47.075280,Casa Branca,America/Sao_Paulo
+A739,SP,635,Itapira,86869,13/11/2007,-22.415062,-46.805292,Itapira,America/Sao_Paulo
+A740,SP,862,São Luis do Paraitinga,86912,01/11/2007,-23.228362,-45.417055,São Luis do Paraitinga,America/Sao_Paulo
+A741,SP,534,Barra Bonita,86867,28/04/2008,-22.471205,-48.557573,Barra Bonita,America/Sao_Paulo
+A742,MS,495,Cassilândia,86791,08/03/2008,-19.122471,-51.720732,Cassilândia,America/Campo_Grande
+A743,MS,324,Rio Brilhante,86836,26/06/2008,-21.774940,-54.528108,Rio Brilhante,America/Campo_Grande
+A744,SP,891,Bragança Paulista,,20/12/2017,-22.951972,-46.530501,Bragança Paulista,America/Sao_Paulo
+A746,SP,660,Barra do Turvo,86922,04/07/2008,-24.962819,-48.416379,Barra do Turvo,America/Sao_Paulo
+A747,SP,540,Pradópolis,86842,20/04/2008,-21.338432,-48.114007,Pradópolis,America/Sao_Paulo
+A748,SP,534,Barretos,86816,19/06/2010,-20.559175,-48.544997,Barretos,America/Sao_Paulo
+A749,MS,375,Juti,86859,18/06/2008,-22.857210,-54.605634,Juti,America/Campo_Grande
+A750,MS,434,Amambaí,86894,12/06/2008,-23.002530,-55.329357,Amambaí,America/Campo_Grande
+A751,MS,398,Sete Quedas,86895,06/06/2008,-23.966893,-55.024227,Sete Quedas,America/Campo_Grande
+A752,MS,338,Itaquiraí,,31/05/2008,-23.449501,-54.181858,Itaquiraí,America/Campo_Grande
+A753,SP,611,Ituverava,86817,17/07/2008,-20.359760,-47.775220,Ituverava,America/Sao_Paulo
+A754,MS,471,Sidrolândia,86809,30/09/2008,-20.981637,-54.971870,Sidrolândia,America/Campo_Grande
+A755,SP,777,Baruerí,86908,23/03/2011,-23.523890,-46.869450,Baruerí,America/Sao_Paulo
+A756,MS,324,Água Clara,86812,15/08/2010,-20.444440,-52.875830,Água Clara,America/Campo_Grande
+A757,MS,206,Bela Vista,86856,09/08/2011,-22.101536,-56.540763,Bela Vista,America/Campo_Grande
+A758,MS,252,Jardim,86835,04/08/2011,-21.478529,-56.137717,Jardim,America/Campo_Grande
+A759,MS,392,Bataguassu,86837,21/03/2013,-21.750123,-52.471294,Bataguassu,America/Campo_Grande
+A760,MS,727,Costa Rica,86771,04/12/2012,-18.492665,-53.171261,Costa Rica,America/Campo_Grande
+A761,MS,495,Sonora,86769,30/11/2012,-17.635277,-54.760470,Sonora,America/Campo_Grande
+A762,SP,720,Dracena,,03/11/2016,-21.457699,-51.552254,Dracena,America/Sao_Paulo
+A763,SP,660,Marília,,13/05/2017,-22.235222,-49.965111,Marília,America/Sao_Paulo
+A764,SP,790,Bebedouro,,27/11/2016,-20.949197,-48.489944,Bebedouro,America/Sao_Paulo
+A765,SP,5,Bertioga,86900,01/02/2017,-23.844678,-46.143376,Bertioga,America/Sao_Paulo
+A766,SP,35,Registro,86915,09/02/2017,-24.533139,-47.864139,Registro,America/Sao_Paulo
+A767,SP,24,São Sebastião,,26/10/2017,-23.810722,-45.402528,São Sebastião,America/Sao_Paulo
+A768,SP,498,Tupã,,12/05/2017,-21.927251,-50.490251,Tupã,America/Sao_Paulo
+A769,SP,586,Cachoeira Paulista,,20/10/2017,-22.689001,-45.005444,Cachoeira Paulista,America/Sao_Paulo
+A770,SP,620,São Simão,,03/07/2019,-21.461019,-47.579512,São Simão,America/Sao_Paulo
+A771,SP,771,São Paulo,,14/03/2018,-23.724451,-46.677511,São Paulo-SESC Interlagos,America/Sao_Paulo
+A801,RS,41,Porto Alegre,86988,18/09/2000,-30.053536,-51.174766,Porto Alegre,America/Sao_Paulo
+A802,RS,5,Rio Grande,86995,06/09/2001,-32.078780,-52.167738,Rio Grande,America/Sao_Paulo
+A803,RS,103,Santa Maria,86977,03/09/2001,-29.724960,-53.720469,Santa Maria,America/Sao_Paulo
+A804,RS,328,Santana do Livramento,86983,21/11/2001,-30.842449,-55.613089,Santana do Livramento,America/Sao_Paulo
+A805,RS,490,Santo Augusto,86952,05/12/2001,-27.854345,-53.791179,Santo Augusto,America/Sao_Paulo
+A806,SC,5,Florianópolis,86958,22/01/2003,-27.602530,-48.620096,Florianópolis-São José,America/Sao_Paulo
+A807,PR,923,Curitiba,86933,28/01/2003,-25.448688,-49.230602,Curitiba,America/Sao_Paulo
+A808,RS,8,Torres,86981,01/06/2006,-29.350359,-49.733263,Torres,America/Sao_Paulo
+A809,RS,74,Uruguaiana,86973,25/09/2006,-29.839870,-57.081899,Uruguaiana,America/Sao_Paulo
+A810,RS,273,Santa Rosa,86950,15/11/2006,-27.890463,-54.480014,Santa Rosa,America/Sao_Paulo
+A811,RS,447,Canguçu,86993,24/01/2007,-31.403299,-52.700699,Canguçu,America/Sao_Paulo
+A812,RS,421,Caçapava do Sul,86986,22/06/2006,-30.545317,-53.467050,Caçapava do Sul,America/Sao_Paulo
+A813,RS,107,Rio Pardo,86978,01/10/2006,-29.872113,-52.381980,Rio Pardo,America/Sao_Paulo
+A814,SC,41,Urussanga,86970,28/05/2008,-28.532557,-49.315205,Urussanga,America/Sao_Paulo
+A815,SC,14,São Joaquim,86969,12/04/2008,-28.275640,-49.934617,São Joaquim,America/Sao_Paulo
+A816,SC,944,Novo Horizonte,86938,20/09/2008,-26.406499,-52.850366,Novo Horizonte,America/Sao_Paulo
+A817,SC,72,Indaial,86946,02/07/2006,-26.913704,-49.267978,Indaial,America/Sao_Paulo
+A818,PR,804,Ivaí,86930,12/07/2006,-25.010757,-50.853853,Ivaí,America/Sao_Paulo
+A819,PR,994,Castro,86921,09/07/2006,-24.786954,-49.999266,Castro,America/Sao_Paulo
+A820,PR,392,Marechal Cândido Rondon,86916,18/11/2006,-24.533303,-54.019248,Marechal Cândido Rondon,America/Sao_Paulo
+A821,PR,513,Joaquim Távora,86903,23/11/2006,-23.505266,-49.946387,Joaquim Távora,America/Sao_Paulo
+A822,PR,656,Nova Tebas,86919,20/12/2006,-24.437346,-51.963020,Nova Tebas,America/Sao_Paulo
+A823,PR,1209,Inácio Martins,86929,16/10/2006,-25.567879,-51.077946,Inácio Martins,America/Sao_Paulo
+A824,PR,381,Icaraíma,86897,15/11/2006,-23.390380,-53.635933,Icaraíma,America/Sao_Paulo
+A825,PR,456,Goioerê,,17/10/2006,-24.158333,-53.030556,Goioerê,America/Sao_Paulo
+A826,RS,121,Alegrete,86975,29/09/2006,-29.709083,-55.525486,Alegrete,America/Sao_Paulo
+A827,RS,226,Bagé,86992,04/01/2007,-31.347801,-54.013292,Bagé,America/Sao_Paulo
+A828,RS,777,Erechim,86954,25/11/2006,-27.657710,-52.305805,Erechim,America/Sao_Paulo
+A829,RS,1229,São José dos Ausentes,86967,26/10/2006,-28.748615,-50.057869,São José dos Ausentes,America/Sao_Paulo
+A830,RS,81,São Borja,86960,21/07/2007,-28.650092,-56.016291,São Borja,America/Sao_Paulo
+A831,RS,113,Quaraí,86982,17/10/2007,-30.368578,-56.437115,Quaraí,America/Sao_Paulo
+A832,RS,115,São Gabriel,86984,12/10/2007,-30.341438,-54.310909,São Gabriel,America/Sao_Paulo
+A833,RS,390,Santiago,86976,05/02/2009,-29.191599,-54.885653,Santiago,America/Sao_Paulo
+A834,RS,5,Tramandaí,86990,09/03/2008,-30.010268,-50.135887,Tramandaí,America/Sao_Paulo
+A835,PR,549,Maringá,86899,21/11/2006,-23.405357,-51.932828,Maringá,America/Sao_Paulo
+A836,RS,31,Jaguarão,86996,09/01/2007,-32.534825,-53.375860,Jaguarão,America/Sao_Paulo
+A837,RS,660,Soledade,86964,27/02/2008,-28.859211,-52.542387,Soledade,America/Sao_Paulo
+A838,RS,92,Camaquã,86989,12/12/2006,-30.807953,-51.834240,Camaquã,America/Sao_Paulo
+A839,RS,681,Passo Fundo,86963,27/11/2006,-28.226805,-52.403582,Passo Fundo,America/Sao_Paulo
+A840,RS,623,Bento Gonçalves,86979,01/12/2006,-29.164581,-51.534202,Bento Gonçalves,America/Sao_Paulo
+A841,SC,768,Joaçaba,86955,19/09/2007,-27.169268,-51.558963,Joaçaba,America/Sao_Paulo
+A842,PR,664,Nova Fátima,86901,08/02/2007,-23.415284,-50.577744,Nova Fátima,America/Sao_Paulo
+A843,PR,546,Dois Vizinhos,86927,29/03/2007,-25.699063,-53.095273,Dois Vizinhos,America/Sao_Paulo
+A844,RS,834,Lagoa Vemelha,86965,02/03/2007,-28.222381,-51.512845,Lagoa Vemelha,America/Sao_Paulo
+A845,SC,179,Morro da Igreja,86968,18/06/2007,-28.126992,-49.479610,Morro da Igreja (Bom Jardim da Serra),America/Sao_Paulo
+A846,PR,235,Foz do Iguaçu,86925,15/02/2008,-25.601834,-54.483065,Foz do Iguaçu,America/Sao_Paulo
+A847,PR,4,Ilha do Mel,86935,23/03/2007,-25.494500,-48.326000,Ilha do Mel,America/Sao_Paulo
+A848,SC,808,Dionísio Cerqueira,86936,31/05/2008,-26.286562,-53.633114,Dionísio Cerqueira,America/Sao_Paulo
+A849,PR,368,Diamante do Norte,86861,08/03/2008,-22.639366,-52.890156,Diamante do Norte,America/Sao_Paulo
+A850,PR,309,Paranapoema,86862,05/03/2008,-22.658273,-52.134526,Paranapoema,America/Sao_Paulo
+A851,SC,6,Itapoá,86947,06/06/2007,-26.081303,-48.641774,Itapoá,America/Sao_Paulo
+A852,RS,246,São Luiz Gonzaga,86961,25/07/2007,-28.417113,-54.962403,São Luiz Gonzaga,America/Sao_Paulo
+A853,RS,427,Cruz Alta,86962,31/05/2007,-28.603440,-53.673597,Cruz Alta,America/Sao_Paulo
+A854,RS,489,Frederico Westphalen,86951,13/12/2007,-27.395686,-53.429421,Frederico Westphalen,America/Sao_Paulo
+A855,PR,399,Planalto,86926,07/11/2007,-25.721863,-53.747920,Planalto,America/Sao_Paulo
+A856,RS,614,Palmeira das Missões,86953,27/02/2008,-27.920379,-53.318049,Palmeira das Missões,America/Sao_Paulo
+A857,SC,655,São Miguel do Oeste,86937,12/03/2008,-26.776699,-53.504541,São Miguel do Oeste,America/Sao_Paulo
+A858,SC,879,Xanxerê,86940,15/03/2008,-26.938666,-52.398090,Xanxerê,America/Sao_Paulo
+A859,SC,944,Caçador,86943,19/03/2008,-26.819156,-50.985520,Caçador,America/Sao_Paulo
+A860,SC,978,Curitibanos,86956,03/03/2008,-27.288624,-50.604283,Curitibanos,America/Sao_Paulo
+A861,SC,592,Rio do Campo,86944,06/03/2008,-26.937526,-50.145445,Rio do Campo,America/Sao_Paulo
+A862,SC,857,Rio Negrinho,86945,22/03/2008,-26.248411,-49.580624,Rio Negrinho,America/Sao_Paulo
+A863,SC,480,Ituporanga,86957,05/03/2008,-27.418410,-49.646874,Ituporanga,America/Sao_Paulo
+A864,SC,800,Major Vieira,86942,09/02/2009,-26.393664,-50.363211,Major Vieira,America/Sao_Paulo
+A865,SC,953,Lages,86932,06/11/2014,-27.802228,-50.335457,Lages,America/Sao_Paulo
+A866,SC,34,Laguna,86972,31/05/2008,-28.604414,-48.813313,Laguna (Farol Santa Marta),America/Sao_Paulo
+A867,SC,2,Araranguá,86971,28/09/2008,-28.931353,-49.497920,Araranguá,America/Sao_Paulo
+A868,SC,10,Itajaí,86948,24/06/2010,-26.950924,-48.762031,Itajaí,America/Sao_Paulo
+A869,PR,366,Cidade Gaúcha,86898,10/03/2008,-23.359156,-52.931912,Cidade Gaúcha,America/Sao_Paulo
+A870,SC,881,Rancho Queimado,86959,01/06/2016,-27.678507,-49.042027,Rancho Queimado,America/Sao_Paulo
+A871,PR,693,Japira,86902,28/02/2008,-23.773341,-50.180570,Japira,America/Sao_Paulo
+A872,PR,1093,Ventania,86920,15/04/2011,-24.280394,-50.210150,Ventania,America/Sao_Paulo
+A873,PR,50,Morretes,86934,13/03/2008,-25.508935,-48.808681,Morretes,America/Sao_Paulo
+A874,PR,780,São Mateus do Sul,86931,18/04/2011,-25.835604,-50.368994,São Mateus do Sul,America/Sao_Paulo
+A875,PR,1009,General Carneiro,86941,10/04/2008,-26.398473,-51.353670,General Carneiro,America/Sao_Paulo
+A876,PR,966,Clevelândia,86939,16/05/2008,-26.417200,-52.348741,Clevelândia,America/Sao_Paulo
+A878,RS,4,Mostardas,86994,12/03/2008,-31.248279,-50.906279,Mostardas,America/Sao_Paulo
+A879,RS,831,Canela,86980,23/08/2008,-29.368788,-50.827231,Canela,America/Sao_Paulo
+A880,RS,970,Vacaria,86966,26/04/2008,-28.513602,-50.882738,Vacaria,America/Sao_Paulo
+A881,RS,152,Dom Pedrito,86985,23/04/2010,-31.002528,-54.618139,Dom Pedrito,America/Sao_Paulo
+A882,RS,80,Teutônia,86987,04/10/2012,-29.450334,-51.824283,Teutônia,America/Sao_Paulo
+A883,RS,455,Ibirubá,86974,13/12/2012,-28.653458,-53.111881,Ibirubá,America/Sao_Paulo
+A884,RS,23,Campo Bom,86991,29/11/2013,-29.674293,-51.064042,Campo Bom,America/Sao_Paulo
+A886,RS,462,Tupanciretã,,11/08/2016,-29.089381,-53.826650,Tupanciretã,America/Sao_Paulo
+A887,RS,13,Capão do Leão,,18/07/2019,-31.802501,-52.407222,Capão do Leão (Pelotas),America/Sao_Paulo
+A889,RS,134,São Vicente do Sul,,06/04/2016,-29.702111,-54.694319,São Vicente do Sul,America/Sao_Paulo
+A893,RS,428,Encruzilhada do Sul,,15/03/2018,-30.543164,-52.524669,Encruzilhada do Sul,America/Sao_Paulo
+A894,RS,545,Serafina Corrêa,,06/04/2016,-28.704806,-51.870751,Serafina Corrêa,America/Sao_Paulo
+A895,SC,679,Chapecó,,18/02/2019,-27.085311,-52.635711,Chapecó,America/Sao_Paulo
+A897,RS,1017,Cambará do Sul,,24/11/2016,-29.049125,-50.149636,Cambará do Sul,America/Sao_Paulo
+A898,SC,963,Campos Novos,,15/02/2019,-27.383861,-51.216056,Campos Novos,America/Sao_Paulo
+A899,RS,7,Santa Vitória do Palmar,86998,15/03/2008,-33.742297,-53.372218,Santa Vitória do Palmar (Barra do Chuí),America/Sao_Paulo
+A901,MT,242,Cuiabá,86705,07/12/2002,-15.559295,-56.062951,Cuiabá,America/Cuiaba
+A902,MT,440,Tangará da Serra,86682,12/10/2002,-14.650117,-57.431556,Tangará da Serra,America/Cuiaba
+A903,MT,340,São José do Rio Claro,,25/02/2003,-13.453981,-56.677323,São José do Rio Claro,America/Cuiaba
+A904,MT,379,Sorriso,86645,16/12/2002,-12.555107,-55.722863,Sorriso,America/Cuiaba
+A905,MT,525,Campo Novo dos Parecis,86662,12/12/2002,-13.785907,-57.838485,Campo Novo dos Parecis,America/Cuiaba
+A906,MT,284,Guarantã do Norte,81979,20/12/2002,-9.952594,-54.897834,Guarantã do Norte,America/Cuiaba
+A907,MT,290,Rondonópolis,86728,17/11/2003,-16.462419,-54.580151,Rondonópolis,America/Cuiaba
+A908,MT,440,Água Boa,86686,16/12/2006,-14.016496,-52.211690,Água Boa,America/Cuiaba
+A909,MT,753,Alto Araguaia,86749,22/09/2011,-17.339359,-53.224449,Alto Araguaia,America/Cuiaba
+A910,MT,218,Apiacás,81976,24/10/2006,-9.563392,-57.393578,Apiacás,America/Cuiaba
+A911,MT,555,Sapezal,,20/10/2017,-13.304085,-58.763525,Sapezal,America/Cuiaba
+A912,MT,748,Campo Verde,86707,21/11/2006,-15.531431,-55.135649,Campo Verde,America/Cuiaba
+A913,MT,577,Comodoro,86661,28/11/2006,-13.708046,-59.762385,Comodoro,America/Cuiaba
+A914,MT,263,Juara,,02/11/2006,-11.280158,-57.526641,Juara,America/Cuiaba
+A915,MT,477,Paranatinga,86684,19/12/2006,-14.421492,-54.036055,Paranatinga,America/Cuiaba
+A916,MT,361,Querência,86647,20/07/2007,-12.627315,-52.220891,Querência,America/Cuiaba
+A917,MT,367,Sinop,86626,29/10/2006,-11.982245,-55.565993,Sinop,America/Cuiaba
+A918,MT,233,Confresa,86606,07/06/2008,-10.639500,-51.571500,Confresa,America/Cuiaba
+A919,MT,265,Cotriguaçu,81975,27/05/2007,-9.906296,-58.572235,Cotriguaçu,America/Cuiaba
+A920,MT,365,Juína,,01/12/2006,-11.375126,-58.774785,Juína,America/Cuiaba
+A921,MT,201,São Félix do Araguaia,86628,18/10/2007,-11.619023,-50.727856,São Félix do Araguaia,America/Cuiaba
+A922,MT,213,Vila Bela da Santíssima Trindade,86701,24/11/2006,-15.062696,-59.872921,Vila Bela da Santíssima Trindade,America/Cuiaba
+A923,MT,680,Primavera do Leste,,26/10/2017,-15.579944,-54.381001,Primavera do Leste,America/Cuiaba
+A924,MT,292,Alta Floresta,81977,23/05/2007,-10.077262,-56.179221,Alta Floresta,America/Cuiaba
+A925,RO,87,Porto Velho,81932,11/07/2007,-8.793662,-63.845931,Porto Velho,America/Porto_Velho
+A926,MT,294,Carlinda,81978,10/04/2008,-9.970586,-55.827543,Carlinda,America/Cuiaba
+A927,MT,426,Novo Mundo,86643,29/02/2008,-12.521901,-58.231401,Novo Mundo,America/Cuiaba
+A928,MT,334,Nova Maringá,86663,17/04/2008,-13.038642,-57.092201,Nova Maringá,America/Cuiaba
+A929,MT,466,Nova Ubiratã,86665,13/04/2008,-13.411105,-54.752144,Nova Ubiratã,America/Cuiaba
+A930,MT,376,Gaucha do Norte,86666,06/06/2008,-13.184857,-53.257366,Gaucha do Norte,America/Cuiaba
+A931,MT,664,Santo Antônio do Leste,86685,31/05/2008,-14.927883,-53.883643,Santo Antônio do Leste,America/Cuiaba
+A932,MT,525,Guiratinga,86729,25/01/2008,-16.341587,-53.766089,Guiratinga,America/Cuiaba
+A933,MT,593,Itiquira,86748,14/08/2008,-17.175051,-54.501690,Itiquira,America/Cuiaba
+A934,MT,862,Alto Taquari,86750,29/01/2008,-17.841011,-53.289474,Alto Taquari,America/Cuiaba
+A935,MT,148,Porto Estrela,,27/02/2008,-15.324728,-57.225845,Porto Estrela,America/Cuiaba
+A936,MT,301,Salto do Céu,86703,28/01/2008,-15.124811,-58.127092,Salto do Céu,America/Cuiaba
+A937,MT,273,Pontes e Lacerda,86702,31/01/2008,-15.234582,-59.346215,Pontes e Lacerda,America/Cuiaba
+A938,RO,583,Vilhena,86642,26/08/2008,-12.734862,-60.157784,Vilhena,America/Porto_Velho
+A939,RO,184,Cacoal,86622,20/07/2008,-11.445837,-61.434146,Cacoal,America/Porto_Velho
+A940,RO,128,Ariquemes,81970,18/07/2008,-9.949001,-62.961873,Ariquemes,America/Porto_Velho
+A941,MT,124,Cáceres,86726,30/03/2012,-16.074740,-57.693047,Cáceres,America/Cuiaba
+A942,MT,300,São José do Xingu,,19/02/2019,-10.484167,-52.372501,São José do Xingu,America/Cuiaba
+A943,MT,441,Serra Nova Dourada,,29/03/2019,-11.987911,-51.426089,Serra Nova Dourada,America/Cuiaba
+A944,MT,195,Rosário Oeste,,30/05/2019,-14.828972,-56.441944,Rosário Oeste,America/Cuiaba
+B803,PR,598,Campina da Lagoa,86918,04/08/2016,-24.570861,-52.800256,Campina da Lagoa,America/Sao_Paulo
+B804,PR,835,Laranjeiras do Sul,,07/08/2016,-25.368944,-52.391944,Laranjeiras do Sul,America/Sao_Paulo
+B806,PR,950,Colombo,86928,28/05/2016,-25.322464,-49.157733,Colombo,America/Sao_Paulo
+C891,AA,1285,Projeto Criosfera,89079,01/01/2014,-84.000000,-79.494200,Projeto Criosfera,Antarctica/Rothera
+F501,MG,1219,Belo Horizonte,86799,01/10/2014,-19.980034,-43.958651,Belo Horizonte - Cercadinho,America/Sao_Paulo
+S705,MS,345,Brasilândia,,06/04/2018,-21.298278,-52.068917,Brasilândia,America/Campo_Grande
+S715,MS,442,Ribas do Rio Pardo,,18/01/2018,-20.466940,-53.763028,Ribas do Rio Pardo,America/Campo_Grande
+S716,MS,383,Santa Rita do Rio Pardo,,19/04/2018,-21.305889,-52.820375,Santa Rita do Rio Pardo,America/Campo_Grande
+S717,MS,374,Selviria,,06/04/2018,-20.351444,-51.430222,Selviria,America/Campo_Grande
+U360,UY,41,Salto,,19/02/2016,-31.438889,-57.980833,Salto,America/Montevideo
+U460,UY,75,Paso de los Toros,,25/05/2016,-32.798969,-56.529053,Paso de los Toros,America/Montevideo
+U560,UY,22,Colonia,86560,14/10/2014,-34.451000,-57.767500,Colonia,America/Montevideo
+U565,UY,18,Rocha,86565,07/10/2014,-34.493600,-54.312400,Rocha,America/Montevideo
